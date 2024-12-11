@@ -1,9 +1,9 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0;
   padding: 0;
   text-align: center;
-}
+} */
 
 
 
@@ -24,7 +24,7 @@
   padding: 20px;
   background: #f9f9f9;
   border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   text-align: left;
 }
 
@@ -85,4 +85,6 @@ input {
   background: #0056b3;
 }
 
-
+.map-container {
+  text-align: -webkit-center;
+}

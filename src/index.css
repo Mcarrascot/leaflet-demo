@@ -10,8 +10,15 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-width: -webkit-fill-available;
+  background-color: silver;
 }
 
+body {
+  padding: 0;
+  margin:0;
+  
+}
 
 /* Navbar styles */
 .navbar {
